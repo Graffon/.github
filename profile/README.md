@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.facebook.com/cllabs.dev">Facebook</a>
+    <a href="#">Facebook</a>
     ·
-    <a href="https://www.linkedin.com/company/cllabs/">Instagram</a>
+    <a href="#">Instagram</a>
 </p>
