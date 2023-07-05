@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href="#">Facebook</a>
+    <a href="https://www.facebook.com/graffon.dev">Facebook</a>
     ·
-    <a href="#">Instagram</a>
+    <a href="https://www.instagram.com/graffon.dev/">Instagram</a>
 </p>
