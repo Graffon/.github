@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    Innovative software solutions for businesses of all sizes.<br> Our skilled team creates user-friendly products
+    Transforming Visions into Digital Masterpieces.
 </p>
 
 <p align="center">
